@@ -1,0 +1,4 @@
+Flask
+sckilt-learn
+numpy
+pandas
